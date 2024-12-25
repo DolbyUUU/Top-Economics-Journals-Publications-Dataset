@@ -33,6 +33,6 @@ This repository contains two datasets and related analysis of publications from:
 
 The datasets enable the following analyses:
 
-1. **Publication Trends**:  
-2. **Keyword and Theme Analysis**:  
-3. **Author and Institution Analysis**:  
+1. **Publication Trends**
+2. **Keyword and Theme Analysis**
+3. **Author and Institution Analysis**
